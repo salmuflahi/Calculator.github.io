@@ -1,5 +1,3 @@
-#
-
-hello!
+# hello!
 
 Calculator.github.io
